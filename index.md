@@ -1,6 +1,6 @@
 ---
-title: Craft The Docs
-subtitle: Template de site pour réaliser de la documentation
+title: L'art de la documentation
+subtitle: Apprendre à structurer, rédiger et valoriser ses projets techniques.
 layout: page
 hero_height: is-large
 hero_darken: true
